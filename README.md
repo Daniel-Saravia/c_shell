@@ -3,7 +3,7 @@
 README.TXT
 ===========
 
-lopesShell: A Simple Shell with Virtual Memory Management (VMM)
+lopesShell: A Simple Shell
 ===============================================================
 
 lopesShell is a custom Unix shell that provides basic command execution along with a simulated Virtual Memory Manager (VMM). This shell allows you to execute standard Unix commands as well as special commands that simulate the allocation and management of virtual memory for processes.
